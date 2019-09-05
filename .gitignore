@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/src/components/Auth/firebase
+/src/components/Auth/firebase.js
 
 # testing
 /coverage
