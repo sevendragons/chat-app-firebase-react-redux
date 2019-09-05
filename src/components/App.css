@@ -1,0 +1,58 @@
+.app {
+  background: '#eee'
+}
+
+.col1{
+  margin-left: 12pxpx
+}
+.messages{
+  height: auto;
+  /* height: 440px; */
+  overflow-y: scroll;
+  margin-bottom: 150px !important;
+}
+
+
+/* Message Form  */
+.message__form{
+  position: fixed !important;
+  bottom: 1em;
+  margin-left: 336px !important;
+  left: 0;
+  right: 1em;
+  z-index: 200;
+
+}
+/*⭐️️️️️️--------- ⭐️️️️️️⭐️️️️️️⭐️️️️️️ Mesage ⭐️️️️️️⭐️️️️️️⭐️️️️️️ ---------⭐️️️️️️*/  
+.message__self {
+  border-left: 2px solid orange;
+  padding-left: 8px;
+  /* float: left */
+}
+
+.message__image { 
+  padding: 1em;
+}
+
+/*⭐️️️️️️--------- ⭐️️️️️️⭐️️️️️️⭐️️️️️️ Progress ⭐️️️️️️⭐️️️️️️⭐️️️️️️ ---------⭐️️️️️️*/
+.progress__bar {
+  margin: 0.3em 0 0 0 !important;
+  width: 100%;
+  height: auto;
+}
+.progress {
+  background-color: transparent !important;
+}
+
+.message__progress{
+  height: 47vh;
+  overflow-y: scroll;
+}
+
+
+/*⭐️️️️️️--------- ⭐️️️️️️⭐️️️️️️⭐️️️️️️ Side Pannel ⭐️️️️️️⭐️️️️️️⭐️️️️️️ ---------⭐️️️️️️*/
+.menu{
+  padding-bottom: 2em;
+  color: #eee
+}
+
